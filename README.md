@@ -82,9 +82,6 @@ I specialize in object detection and motion analysis. My unique background in Bi
  - `Reinforcement Learning : Stable-Baselines3`
  - `Classical ML      : Scikit-learn, XGBoost`
 
-**Physics & Simulation**
- - `Robotics Simulation : PyBullet, MuJoCo, Isaac Gym (learning)`
- - `Physics Engines     : PyBullet`
 
 **Data & Development**
  - `Data Processing   : Pandas, NumPy, SciPy`
@@ -94,5 +91,4 @@ I specialize in object detection and motion analysis. My unique background in Bi
  - `Cloud/Computing   : Google Colab, Local GPU (RTX 5050)`
 
 **Languages**
- - `Proficient : Python, SQL (learning)`
- - `Learning   : C++, JavaScript`
+ - `Proficient : Python, SQL `
