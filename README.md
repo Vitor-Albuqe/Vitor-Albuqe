@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML;%20Data%20Science;%20Problem%20Solver;%20Seeking%20Intership;%20Future%20Tech%20Lead&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML;%20Data%20Science;%20Problem%20Solver;%20Seeking%20Intership&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
 </p>
 
 ---
@@ -78,7 +78,7 @@ My goal is to transform data into strategic decisions, create high-value predict
 
 **Machine Learning & AI**
  - `Deep Learning    : TensorFlow, PyTorch, Keras`
- - `Computer Vision  :  YOLO (learning)`
+ - `Computer Vision  :  YOLO `
  - `Classical ML     : Scikit-learn, XGBoost`
 
 
