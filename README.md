@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML%20and%20Simulations%20Enthusiastic;%20Data%20Science;%20Problem%20Solver;%20Seeking%20Intership;%20Future%20Tech%20Lead&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Student%7C%20ML;%20Data%20Science;%20Problem%20Solver;%20Seeking%20Intership;%20Future%20Tech%20Lead&font=Fira%20Code&center=true&width=800&height=45&color=fbf1c7&vCenter=true&size=22">
 </p>
 
 ---
@@ -21,9 +21,9 @@
 </h3>
 <br>
 
-Machine Learning & Computer Vision Developer focused on practical, high-impact applications.
+I am an Artificial Intelligence student at FIAP, focusing on data analysis, machine learning, and the development of intelligent business solutions. I have practical experience with Python, SQL, generative AI, and machine learning projects applied to healthcare and digital agriculture.
 
-I specialize in object detection and motion analysis. My unique background in Biomechanics allows me to bridge the gap between human movement science and computational intelligence.
+My goal is to transform data into strategic decisions, create high-value predictive models, and drive innovation within companies. I am seeking internship opportunities in information technology, data, and artificial intelligence to apply my knowledge practically, grow professionally, and positively impact the future of organizations.
 
 ---
 
@@ -78,14 +78,13 @@ I specialize in object detection and motion analysis. My unique background in Bi
 
 **Machine Learning & AI**
  - `Deep Learning    : TensorFlow, PyTorch, Keras`
- - `Computer Vision  : OpenCV, MediaPipe, YOLO (learning)`
- - `Reinforcement Learning : Stable-Baselines3`
- - `Classical ML      : Scikit-learn, XGBoost`
+ - `Computer Vision  :  YOLO (learning)`
+ - `Classical ML     : Scikit-learn, XGBoost`
 
 
 **Data & Development**
  - `Data Processing   : Pandas, NumPy, SciPy`
- - `Visualization     : Matplotlib, Plotly, Seaborn`
+ - `Visualization     : Matplotlib, Plotly, Seaborn, Power BI`
  - `Development       : Git, VS Code`
  - `Deployment        : FastAPI, Streamlit`
  - `Cloud/Computing   : Google Colab, Local GPU (RTX 5050)`
