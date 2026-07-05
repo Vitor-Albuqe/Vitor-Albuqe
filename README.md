@@ -69,6 +69,17 @@ My goal is to transform data into strategic decisions, create high-value predict
   <img src="https://img.shields.io/badge/End--to--End-Machine_Learning-2ecc71?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </a>
 
+### inventory control (end-to-end)
+**Solo Development** | *inventory management system*
+
+**Business Goal:** Provide small businesses with an intuitive platform to manage inventory, sales, and financial operations, reducing manual work and enabling data-driven decision making through real-time business insights.
+
+**Solution & Impact:** Developed a complete inventory management system focused on usability and operational efficiency. The application centralizes product registration, stock movement, sales management, expense tracking, and interactive dashboards, allowing business owners to monitor inventory levels, profitability, and business performance from a single interface.
+
+**Technologies:** `Python` · `Streamlit` · `Pandas` · `SQLite` · `SQLAlchemy` · `Plotly` · `Session State`
+
+<a href="https://github.com/Vitor-Albuqe/inventory_control"> <img src="https://img.shields.io/badge/End--to--End-Business_Management-3498db?style=for-the-badge&logo=streamlit&logoColor=white"/> </a>
+
 <h2 align="center" id="featured-projects">
     🛠️ Technical Stack
 </h2>
