@@ -99,8 +99,7 @@ My goal is to transform data into strategic decisions, create high-value predict
 <br>
 
 **Machine Learning & AI**
- - `Deep Learning    : TensorFlow, PyTorch, Keras`
- - `Computer Vision  :  YOLO `
+ - `Deep Learning    : TensorFlow, PyTorch `
  - `Classical ML     : Scikit-learn, XGBoost`
 
 
