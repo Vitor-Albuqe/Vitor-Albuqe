@@ -80,6 +80,17 @@ My goal is to transform data into strategic decisions, create high-value predict
 
 <a href="https://github.com/Vitor-Albuqe/inventory_control"> <img src="https://img.shields.io/badge/End--to--End-Business_Management-3498db?style=for-the-badge&logo=streamlit&logoColor=white"/> </a>
 
+### Sensor Data Processing Pipeline
+**Solo Development** | *Sensor Data Processing Pipeline*
+
+**Business Goal:** Build a reliable data pipeline capable of processing raw sensor readings, validating records, and generating structured outputs for analysis.
+
+**Solution & Impact:** Developed a modular ETL pipeline that ingests sensor data from text files, performs validation and data cleaning, detects invalid records, computes descriptive statistics, and exports structured datasets and reports. The project demonstrates best practices for scalable data processing, automation, and data quality assurance.
+
+**Technologies:** `Python` · `Pandas` · `NumPy` · `Pathlib` · `Logging` · `ETL` · `Data Validation`
+
+<a href="https://github.com/Vitor-Albuqe/sensor-data-pipeline"> <img src="https://img.shields.io/badge/End--to--End-Business_Management-3498db?style=for-the-badge&logo=streamlit&logoColor=white"/> </a>
+
 <h2 align="center" id="featured-projects">
     🛠️ Technical Stack
 </h2>
